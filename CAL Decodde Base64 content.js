@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CAL Decodde Base64 content
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Decode the CAL conent encoded in base64
 // @author       jayka
 // @match        https://engineering.paypalcorp.com/*
