@@ -7,7 +7,7 @@
 // @match        https://engineering.paypalcorp.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 // @run-at       document-idle
-// @download-url 
+// @download-url https://raw.githubusercontent.com/jayka/tampermonkey-scripts/main/CAL%20Decodde%20Base64%20content.js
 // ==/UserScript==
 
 function getContentNumOfTr(trNode) {
